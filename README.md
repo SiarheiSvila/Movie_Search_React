@@ -22,3 +22,16 @@ or
 ```bash
 yarn start
 ```
+
+## Usage and Screenshots:
+So, you've started the application. Let's now find some Jurrassic park movies. To do this Type `Jurassic Park` at the seach bar and click `Search`. All Jurrasic Park movies are displayed correctly:
+
+<img src="/git_media/Jurassic%20Park%201.png" width="60%" />
+<img src="/git_media/Jurassic%20Park%202.png" width="60%" />
+<br />
+<br />
+
+Also if you search for Titanic:
+
+<img src="/git_media/Titanic%201.png" width="60%" />
+<img src="/git_media/Titanic%202.png" width="60%" />
